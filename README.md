@@ -2,7 +2,7 @@
 
 [![GitHubFollowers](https://img.shields.io/github/followers/AyozeMN?style=social)](#)
 
-[![From Tenerife, Canarias, Spain.](./img/background.jpg)](#)
+[![From Tenerife, Canarias, Spain.](./background.jpg)](#)
 
 ## Find me at:
 
