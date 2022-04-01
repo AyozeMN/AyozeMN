@@ -6,7 +6,8 @@
 
 ## Find me at:
 
-[![Web](https://img.shields.io/badge/Web-AyozeMN.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://ayozemn.github.io/Portfolio/)
+[![Web](https://img.shields.io/badge/Web-AyozeMN.com-01A1C3?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://ayozemn.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayoze_Mesa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ayoze-mesa/)
 
 ## Skills:
 
