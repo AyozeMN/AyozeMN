@@ -2,7 +2,9 @@
 
 [![GitHubFollowers](https://img.shields.io/github/followers/AyozeMN?style=social)](#)
 
-I'm a Software Developer 💻 from Tenerife, Canarias (Spain). 🗺️ 🇮🇨
+[![From Tenerife, Canarias, Spain.](./img/background.jpg)](#)
+
+## Find me at:
 
 [![Web](https://img.shields.io/badge/Web-AyozeMN.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://ayozemn.github.io/Portfolio/)
 
